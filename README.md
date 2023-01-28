@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohsinQK
-- 👀 I’m interested in TYPO3, Laravel
+- 👀 I’m interested in TYPO3
 - 🌱 I’m currently learning Micro Services Architecture
-- 💞️ I’m looking to collaborate on Laravel
+- 💞️ I’m looking to collaborate on TYPO3
 - 📫 How to reach me at mohsinqayyumkhan@gmail.com
 
 <!---
